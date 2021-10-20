@@ -9,13 +9,14 @@
     "dc:contributor": [
         "https://github.com/Anaphory/lexedata/blob/master/src/lexedata/edit/add_metadata.py"
     ],
+    "dc:source": "sources.bib",
     "dialect": {
         "commentPrefix": null
     },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 8158,
+            "dc:extent": 8767,
             "tableSchema": {
                 "columns": [
                     {
@@ -159,6 +160,11 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Cognateset_Name"
                     }
                 ],
                 "primaryKey": [

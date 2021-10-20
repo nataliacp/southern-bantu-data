@@ -1,82 +1,82 @@
-Language_ID,Language,Guthrie_Code,Glottocode,ISO_Code,Glottolog_Name,comment
-Duala,Duala,A24,dual1243,dua,Duala,
-Ntomba,Ntomba,C35a,ntom1248,nto,Ntomba,
-Ngombe,Ngombe,C41,ngom1268,ngc,Ngombe (Democratic Republic of Congo),
-Bushoong,Bushoong,C83,bush1247,buf,Bushoong,
-Kiyombi,Yombe,H16c-d,yomb1244,yom,Yombe,
-Nzebi,Njebi,B52,njeb1242,nzb,Njebi,
-Nzadi,Nzadi,B865,nzad1234,nzd,Nzadi,
-Lega,Lega,D25,lega1250,lgm,Lega-Mwenga,
-Kikuyu,Kikuyu,E51,kiku1240,kik,Kikuyu,
-Nyamwezi,Nyamwezi,F22,nyam1276,nym,Nyamwezi,
-Swahili,Swahili,G42,swah1253,swh,Swahili,
-Luganda,Ganda,JE15,gand1255,lug,Ganda,
-Ha,Ha,JD66,haaa1252,haq,Ha,
-Fwe,Fwe,K402,fwee1238,fwe,Fwe,
-Subiya,Subiya,K42,subi1246,sbs,Subiya,
-Totela,Totela,K41,tote1238,ttl,Totela,
-Lozi,Lozi,K21,lozi1239,loz,Lozi,
-Manyo,Manyo,K334,diri1252,diu,Diriku-Shambyu,
-Kwangali,Kwangali,K33,kwan1273,kwn,Kwangali,
-Mbukushu,Mbukushu,K333,mbuk1240,mhw,Mbukushu,
-Lunda,Lunda,L52,lund1266,lun,Lunda,
-Nyakyusa,Nyakyusa,M31,nyak1260,nyy,Nyakyusa-Ngonde,
-Bemba,Bemba,M42,bemb1257,bem,Bemba (Zambia),
-Lamba,Lamba,M54,lamb1271,lam,Lamba,
-Lenje,Lenje,M61,lenj1248,leh,Lenje,
-Ila,Ila,M63,ilaa1246,ilb,Ila,
-Zambian_Tonga,Tonga (Zambia),M64,tong1318,toi,Tonga (Zambia),
-Kunda,Kunda,N42,kund1255,kdn,Chikunda,
-Tanzanian_Ngoni,Tanzanian Ngoni,N12,tanz1241,ngo,Tanzanian Ngoni,
-Mozambican_Ngoni,Mozambican Ngoni,N10,moza1251,xnq,Mozambican Ngoni,
-Tumbuka,Tumbuka,N21,tumb1250,tum,Tumbuka,
-Chewa,Chewa,N31,nyan1308,nya,Nyanja,
-Yao,Yao,P21,yaoo1241,yao,Yao,
-Koti,Koti,P311,koti1238,eko,Koti,
-Central_Makhuwa,Central Makhuwa,P31A,cent2033,vmw,Central Makua,
-Makhuwa_Nahara,Makhuwa Nahara,P31E,enah1238,,Enaharra,
-Cuwabo,Cuwabo,P34,chuw1238,chw,Chuwabu,
-Umbundu,Umbundu,R11,umbu1257,umb,Umbundu,
-Humbe,Humbe,R13,humb1241,nyk,Humbe,
-Cilenge,Cilenge,R13,cile1234,,Cilenge,
-Kwandu,Kwandu,,kwan1289,xdo,Kwandu,Classification not given in Jordan 2015; not listed in Maho 2009; Ethnologue lists it as Nyaneka (R13) variety- HG
-Kuvale,Kuvale,R101,kuva1244,olu,Kuvale,
-Mbadja,Mbandja,R213,mbad1234,lnb,Mbadja,
-Mbalanhu,Mbalanhu,R214,mbal1262,lnb,Mbalanhu,
-Kwanyama,Kwanyama,R21,kuan1247,kua,Kuanyama,
-Herero,Herero,R31,here1253,her,Herero,
-Namibian_Yeyi,Namibian Yei,R41A,capr1234,yey,Caprivi Yeyi,
-Botswana_Yeyi,Botswana Yei,R41B,shir1261,yey,Ngamiland Yeyi,
-Zezuru,Zezuru,S12,zezu1238,,Zezuru,
-Manyika,Manyika,S13,many1258,mxc,Manyika,
-Karanga,Karanga,S14,kara1480,,Karanga (Atlantic-Congo),
-Ndau,Ndau,S15,ndau1241,ndc,Ndau,
-Ikalanga,Kalanga,S16,kala1384,kck,Kalanga,
-Nambya,Nambya,S16B,namb1291,nmq,Nambya,
-Venda,Venda,S21,vend1245,ven,Venda,
-Kutswe,Kutswe,S302,khut1241,,Khutswe,
-Pai,Pai,S303,paii1250,,Pai (Pedi),
-Pulana,Pulana,S304,pula1264,,Pulana,
-Tswana,Tswana,S31,tswa1253,tsn,Tswana,
-Tawana,Tawana,S31c,tawa1269,,Tawana,
-Kgalagadi,Kgalagadi,S311,kgal1244,xkv,Kgalagadi,
-Tjhauba,Tjhauba,S311,tjha1234,,Tjhauba,
-Northern_Sotho,Northern Sotho,S32,pedi1238,nso,Pedi,
-Lobedu,Lobedu,S32b,lobe1242,,Lobedu,
-Southern_Sotho,Southern Sotho,S33,sout2807,sot,Southern Sotho,
-Bhaca,Bhaca,S402,bhac1238,,Bhaca,
-Phuthi,Phuthi,S404,phut1246,,Phuthi,
-Nhlangwini,Nhlangwini,S405,nhla1239,,Nhlangwini,
-North_Lala,North Lala,S406,lala1263,,North_Lala,
-South_Lala,South Lala,S406,lala1263,,South_Lala,
-South_Ndebele,South Ndebele,S407,sout3270,nbl,South Transvaal Ndebele,
-North_Ndebele,North Ndebele,S408,sout2808,,Sumayela Ndebele,
-Xhosa,Xhosa,S41,xhos1239,xho,Xhosa,
-Zulu,Zulu,S42,zulu1248,zul,Zulu,
-Swati,Swati,S43,swat1243,ssw,Swati,
-Zimbabwean_Ndebele,Zimbabwean Ndebele,S44,nort2795,nde,Zimbabwean Ndebele,
-Tshwa,Tswa,S51,tswa1255,tsc,Tswa,
-Tsonga,Tsonga,S53,tson1249,tso,Tsonga,
-Ronga,Ronga,S54,rong1268,rng,Ronga,
-Copi,Copi,S61,chop1243,cce,Chopi,
-Mozambican_Tonga,Mozambican Tonga,S62,gito1238,toh,Gitonga,
+Language,Glottolog_Name,Glottocode,Guthrie_Code,ISO_Code,comment,Language_ID
+Duala,Duala,dual1243,A24,dua,,Duala
+Ntomba,Ntomba,ntom1248,C35a,nto,,Ntomba
+Ngombe,Ngombe (Democratic Republic of Congo),ngom1268,C41,ngc,,Ngombe
+Bushoong,Bushoong,bush1247,C83,buf,,Bushoong
+Yombe,Yombe,yomb1244,H16c-d,yom,,Kiyombi
+Njebi,Njebi,njeb1242,B52,nzb,,Nzebi
+Nzadi,Nzadi,nzad1234,B865,nzd,,Nzadi
+Lega,Lega-Mwenga,lega1250,D25,lgm,,Lega
+Kikuyu,Kikuyu,kiku1240,E51,kik,,Kikuyu
+Nyamwezi,Nyamwezi,nyam1276,F22,nym,,Nyamwezi
+Swahili,Swahili,swah1253,G42,swh,,Swahili
+Ganda,Ganda,gand1255,JE15,lug,,Luganda
+Ha,Ha,haaa1252,JD66,haq,,Ha
+Fwe,Fwe,fwee1238,K402,fwe,,Fwe
+Subiya,Subiya,subi1246,K42,sbs,,Subiya
+Totela,Totela,tote1238,K41,ttl,,Totela
+Lozi,Lozi,lozi1239,K21,loz,,Lozi
+Manyo,Diriku-Shambyu,diri1252,K334,diu,,Manyo
+Kwangali,Kwangali,kwan1273,K33,kwn,,Kwangali
+Mbukushu,Mbukushu,mbuk1240,K333,mhw,,Mbukushu
+Lunda,Lunda,lund1266,L52,lun,,Lunda
+Nyakyusa,Nyakyusa-Ngonde,nyak1260,M31,nyy,,Nyakyusa
+Bemba,Bemba (Zambia),bemb1257,M42,bem,,Bemba
+Lamba,Lamba,lamb1271,M54,lam,,Lamba
+Lenje,Lenje,lenj1248,M61,leh,,Lenje
+Ila,Ila,ilaa1246,M63,ilb,,Ila
+Tonga (Zambia),Tonga (Zambia),tong1318,M64,toi,,Zambian_Tonga
+Kunda,Chikunda,kund1255,N42,kdn,,Kunda
+Tanzanian Ngoni,Tanzanian Ngoni,tanz1241,N12,ngo,,Tanzanian_Ngoni
+Mozambican Ngoni,Mozambican Ngoni,moza1251,N10,xnq,,Mozambican_Ngoni
+Tumbuka,Tumbuka,tumb1250,N21,tum,,Tumbuka
+Chewa,Nyanja,nyan1308,N31,nya,,Chewa
+Yao,Yao,yaoo1241,P21,yao,,Yao
+Koti,Koti,koti1238,P311,eko,,Koti
+Central Makhuwa,Central Makua,cent2033,P31A,vmw,,Central_Makhuwa
+Makhuwa Nahara,Enaharra,enah1238,P31E,,,Makhuwa_Nahara
+Cuwabo,Chuwabu,chuw1238,P34,chw,,Cuwabo
+Umbundu,Umbundu,umbu1257,R11,umb,,Umbundu
+Humbe,Humbe,humb1241,R13,nyk,,Humbe
+Cilenge,Cilenge,cile1234,R13,,,Cilenge
+Kwandu,Kwandu,kwan1289,,xdo,Classification not given in Jordan 2015; not listed in Maho 2009; Ethnologue lists it as Nyaneka (R13) variety- HG,Kwandu
+Kuvale,Kuvale,kuva1244,R101,olu,,Kuvale
+Mbandja,Mbadja,mbad1234,R213,lnb,,Mbadja
+Mbalanhu,Mbalanhu,mbal1262,R214,lnb,,Mbalanhu
+Kwanyama,Kuanyama,kuan1247,R21,kua,,Kwanyama
+Herero,Herero,here1253,R31,her,,Herero
+Namibian Yei,Caprivi Yeyi,capr1234,R41A,yey,,Namibian_Yeyi
+Botswana Yei,Ngamiland Yeyi,shir1261,R41B,yey,,Botswana_Yeyi
+Zezuru,Zezuru,zezu1238,S12,,,Zezuru
+Manyika,Manyika,many1258,S13,mxc,,Manyika
+Karanga,Karanga (Atlantic-Congo),kara1480,S14,,,Karanga
+Ndau,Ndau,ndau1241,S15,ndc,,Ndau
+Kalanga,Kalanga,kala1384,S16,kck,,Ikalanga
+Nambya,Nambya,namb1291,S16B,nmq,,Nambya
+Venda,Venda,vend1245,S21,ven,,Venda
+Kutswe,Khutswe,khut1241,S302,,,Kutswe
+Pai,Pai (Pedi),paii1250,S303,,,Pai
+Pulana,Pulana,pula1264,S304,,,Pulana
+Tswana,Tswana,tswa1253,S31,tsn,,Tswana
+Tawana,Tawana,tawa1269,S31c,,,Tawana
+Kgalagadi,Kgalagadi,kgal1244,S311,xkv,,Kgalagadi
+Tjhauba,Tjhauba,tjha1234,S311,,,Tjhauba
+Northern Sotho,Pedi,pedi1238,S32,nso,,Northern_Sotho
+Lobedu,Lobedu,lobe1242,S32b,,,Lobedu
+Southern Sotho,Southern Sotho,sout2807,S33,sot,,Southern_Sotho
+Bhaca,Bhaca,bhac1238,S402,,,Bhaca
+Phuthi,Phuthi,phut1246,S404,,,Phuthi
+Nhlangwini,Nhlangwini,nhla1239,S405,,,Nhlangwini
+North Lala,North_Lala,lala1263,S406,,,North_Lala
+South Lala,South_Lala,lala1263,S406,,,South_Lala
+South Ndebele,South Transvaal Ndebele,sout3270,S407,nbl,,South_Ndebele
+North Ndebele,Sumayela Ndebele,sout2808,S408,,,North_Ndebele
+Xhosa,Xhosa,xhos1239,S41,xho,,Xhosa
+Zulu,Zulu,zulu1248,S42,zul,,Zulu
+Swati,Swati,swat1243,S43,ssw,,Swati
+Zimbabwean Ndebele,Zimbabwean Ndebele,nort2795,S44,nde,,Zimbabwean_Ndebele
+Tswa,Tswa,tswa1255,S51,tsc,,Tshwa
+Tsonga,Tsonga,tson1249,S53,tso,,Tsonga
+Ronga,Ronga,rong1268,S54,rng,,Ronga
+Copi,Chopi,chop1243,S61,cce,,Copi
+Mozambican Tonga,Gitonga,gito1238,S62,toh,,Mozambican_Tonga
