@@ -1,0 +1,168 @@
+#NEXUS
+[written Mon Oct 25 11:20:40 CEST 2021 by Mesquite  version 3.61 (build 927) at Admins-MacBook-Pro.local/192.168.1.37]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=79;
+	TAXLABELS
+		Duala Ntomba Ngombe Bushoong Kiyombi Nzebi Nzadi Lega Kikuyu Nyamwezi Swahili Luganda Ha Fwe Subiya Totela Lozi Manyo Kwangali Mbukushu Lunda Nyakyusa Bemba Lamba Lenje Ila Zambian_Tonga Kunda Tanzanian_Ngoni Mozambican_Ngoni Tumbuka Chewa Yao Koti Central_Makhuwa Makhuwa_Nahara Cuwabo Umbundu Humbe Cilenge Kwandu Kuvale Mbadja Mbalanhu Kwanyama Herero Zezuru Manyika Karanga Ndau Ikalanga Nambya Venda Kutswe Pai Pulana Tswana Tawana Kgalagadi Tjhauba Northern_Sotho Lobedu Southern_Sotho Bhaca Phuthi Nhlangwini North_Lala South_Lala South_Ndebele North_Ndebele Xhosa Zulu Swati Zimbabwean_Ndebele Tshwa Tsonga Ronga Copi Mozambican_Tonga 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "BantuMBgammaNY.nex.con.tre"';
+	ID 017cb6bff8ad8;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Duala,
+[1] 		2 Ntomba,
+[2] 		3 Ngombe,
+[3] 		4 Bushoong,
+[4] 		5 Kiyombi,
+[5] 		6 Nzebi,
+[6] 		7 Nzadi,
+[7] 		8 Lega,
+[8] 		9 Kikuyu,
+[9] 		10 Nyamwezi,
+[10] 		11 Swahili,
+[11] 		12 Luganda,
+[12] 		13 Ha,
+[13] 		14 Fwe,
+[14] 		15 Subiya,
+[15] 		16 Totela,
+[16] 		17 Lozi,
+[17] 		18 Manyo,
+[18] 		19 Kwangali,
+[19] 		20 Mbukushu,
+[20] 		21 Lunda,
+[21] 		22 Nyakyusa,
+[22] 		23 Bemba,
+[23] 		24 Lamba,
+[24] 		25 Lenje,
+[25] 		26 Ila,
+[26] 		27 Zambian_Tonga,
+[27] 		28 Kunda,
+[28] 		29 Tanzanian_Ngoni,
+[29] 		30 Mozambican_Ngoni,
+[30] 		31 Tumbuka,
+[31] 		32 Chewa,
+[32] 		33 Yao,
+[33] 		34 Koti,
+[34] 		35 Central_Makhuwa,
+[35] 		36 Makhuwa_Nahara,
+[36] 		37 Cuwabo,
+[37] 		38 Umbundu,
+[38] 		39 Humbe,
+[39] 		40 Cilenge,
+[40] 		41 Kwandu,
+[41] 		42 Kuvale,
+[42] 		43 Mbadja,
+[43] 		44 Mbalanhu,
+[44] 		45 Kwanyama,
+[45] 		46 Herero,
+[46] 		47 Zezuru,
+[47] 		48 Manyika,
+[48] 		49 Karanga,
+[49] 		50 Ndau,
+[50] 		51 Ikalanga,
+[51] 		52 Nambya,
+[52] 		53 Venda,
+[53] 		54 Kutswe,
+[54] 		55 Pai,
+[55] 		56 Pulana,
+[56] 		57 Tswana,
+[57] 		58 Tawana,
+[58] 		59 Kgalagadi,
+[59] 		60 Tjhauba,
+[60] 		61 Northern_Sotho,
+[61] 		62 Lobedu,
+[62] 		63 Southern_Sotho,
+[63] 		64 Bhaca,
+[64] 		65 Phuthi,
+[65] 		66 Nhlangwini,
+[66] 		67 North_Lala,
+[67] 		68 South_Lala,
+[68] 		69 South_Ndebele,
+[69] 		70 North_Ndebele,
+[70] 		71 Xhosa,
+[71] 		72 Zulu,
+[72] 		73 Swati,
+[73] 		74 Zimbabwean_Ndebele,
+[74] 		75 Tshwa,
+[75] 		76 Tsonga,
+[76] 		77 Ronga,
+[77] 		78 Copi,
+[78] 		79 Mozambican_Tonga;
+	TREE con_50_majrule = (1:0.04772979,((5:0.01682096,6:0.0203086):0.005888819,(8:0.02363971,(((9:0.02494501,(12:0.02526175,13:0.01267827):0.004084271):0.002066318,(10:0.01432929,(((11:0.01533513,(34:0.01035742,((35:0.003390845,36:0.005087784):0.01549729,37:0.01555506):0.006260409):0.004706826):0.005075174,((22:0.02277095,((29:0.0192441,30:0.01224889):0.004874879,33:0.01181795):0.01082762):0.003372147,(31:0.01472471,32:0.01664235):0.003814673):0.002625831):0.003088978,((((((((17:0.005100338,63:0.003420941):0.002887239,(57:0.002396492,58:0.002945637):0.001735849):0.001832823,(59:0.005419751,60:0.003602211):0.004629184):0.002084866,(61:0.002706929,62:0.008277899):0.001255905):0.002039306,((54:0.0005723071,56:0.000764299):0.008364074,55:0.00559022):0.005596102):0.003722225,((((((64:0.006403762,71:0.002514906):0.001737433,((66:0.009328088,(67:0.0008030382,68:0.002348401):0.002160283):0.001959225,(72:0.0006367609,(73:0.001325544,74:0.002501856):0.002058216):0.0006481037):0.0006362332):0.002443365,69:0.003273406):0.001923802,70:0.008491051):0.001400143,65:0.006389692):0.008326748,((75:0.01204164,(76:0.001450002,77:0.004213971):0.002331192):0.003622036,(78:0.01040321,79:0.01746266):0.006775096):0.005153458):0.002176518):0.004734023,53:0.006229798):0.006015192,((((47:0.002545193,49:0.002170217):0.002272577,48:0.002752417):0.003162107,50:0.008087477):0.007023161,(51:0.004573979,52:0.004864169):0.003278824):0.00541426):0.009096103):0.001897857):0.00350303):0.003513112,((((14:0.003212878,15:0.009285955):0.001574482,16:0.009257482):0.003539122,(25:0.005714477,26:0.005226933):0.005093463):0.002920718,((23:0.005040641,24:0.005322788):0.006609211,(27:0.006061487,28:0.00959808):0.01423614):0.003135264):0.004664217,((((18:0.003940978,19:0.007920879):0.004924811,(((38:0.01564579,(39:0.006336239,(40:0.002266919,(41:0.002182244,42:0.008919621):0.004227449):0.00504996):0.004806536):0.006016491,((43:0.009874121,44:0.009980607):0.002907713,45:0.0033004):0.003896441):0.005406786,46:0.01294398):0.003561794):0.00499591,20:0.01238411):0.002885934,21:0.0208102):0.004665852):0.004845409):0.01212508):0.006505756,(((2:0.01427202,4:0.01342723):0.003856175,7:0.02447573):0.004635567,3:0.02053284):0.007782561);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1635153645870;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2269091902434506268;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 272;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 25;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #2269091902434506268 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #2269091902434506268;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 428 392;
+					setLocation 8 25;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
