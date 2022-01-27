@@ -22,20 +22,26 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
+                            "format": "[a-z0-9_]+"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
                         "name": "Parameter_ID"
@@ -91,6 +97,17 @@
                                 "Language_ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -133,7 +150,10 @@
                         "name": "comment"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "Language_ID"
@@ -151,7 +171,10 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "Cognateset_ID"
@@ -179,19 +202,28 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "Cognate_ID"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "required": true,
                         "name": "Form_ID"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
                         "required": true,
                         "name": "Cognateset_ID"
@@ -231,6 +263,39 @@
                 ]
             },
             "url": "cognates.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 100,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9_]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
         }
     ]
 }

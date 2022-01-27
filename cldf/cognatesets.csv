@@ -36,7 +36,7 @@ fish1,,fish1
 fly1,,fly1
 full8,,full8
 give10,,give10
-go to12,,go to12
+go_to12,,go to12
 hair3,,hair3
 head9,,head9
 hear10,,hear10
@@ -69,17 +69,17 @@ one2,,one2
 path1,,path1
 person1,,person1
 rain1,,rain1
-rain (v)12,,rain (v)12
+rain_v_12,,rain (v)12
 river24,,river24
 root22,,root22
 sand15,,sand15
 see7,,see7
 seed1,,seed1
 short10,,short10
-"sick, be17",,"sick, be17"
+sick_be17,,"sick, be17"
 sit19,,sit19
 skin3,,skin3
-sleep (v)21,,sleep (v)21
+sleep_v_21,,sleep (v)21
 small27,,small27
 smoke2,,smoke2
 snake7,,snake7
@@ -125,7 +125,7 @@ finger11,,finger11
 fire10,,fire10
 fly13,,fly13
 give1,,give1
-go to1,,go to1
+go_to1,,go to1
 hair12,,hair12
 head1,,head1
 hear1,,hear1
@@ -154,17 +154,17 @@ night6,,night6
 nose14,,nose14
 one1,,one1
 path5,,path5
-rain (v)11,,rain (v)11
+rain_v_11,,rain (v)11
 river23,,river23
 river18,,river18
 root4,,root4
 sand4,,sand4
 seed12,,seed12
 short1,,short1
-"sick, be16",,"sick, be16"
+sick_be16,,"sick, be16"
 sit14,,sit14
 skin27,,skin27
-sleep (v)20,,sleep (v)20
+sleep_v_20,,sleep (v)20
 small3,,small3
 smoke5,,smoke5
 snake1,,snake1
@@ -203,7 +203,7 @@ feather20,,feather20
 fire11,,fire11
 full11,,full11
 full12,,full12
-go to2,,go to2
+go_to2,,go to2
 hair16,,hair16
 horn2,,horn2
 house10,,house10
@@ -226,7 +226,7 @@ root23,,root23
 sand3,,sand3
 seed13,,seed13
 sit15,,sit15
-sleep (v)19,,sleep (v)19
+sleep_v_19,,sleep (v)19
 smoke6,,smoke6
 speak33,,speak33
 stand1,,stand1
@@ -258,13 +258,13 @@ mountain14,,mountain14
 mountain,,mountain
 neck17,,neck17
 new10,,new10
-rain (v)4,,rain (v)4
+rain_v_4,,rain (v)4
 river21,,river21
 see1,,see1
 seed14,,seed14
-"sick, be6",,"sick, be6"
+sick_be6,,"sick, be6"
 sit16,,sit16
-sleep (v)18,,sleep (v)18
+sleep_v_18,,sleep (v)18
 speak34,,speak34
 speak35,,speak35
 steal12,,steal12
@@ -306,7 +306,7 @@ root24,,root24
 seed15,,seed15
 sit1,,sit1
 skin6,,skin6
-sleep (v)17,,sleep (v)17
+sleep_v_17,,sleep (v)17
 smoke1,,smoke1
 stone2,,stone2
 sun10,,sun10
@@ -336,7 +336,7 @@ night1,,night1
 sand1,,sand1
 seed16,,seed16
 sit17,,sit17
-sleep (v)1,,sleep (v)1
+sleep_v_1,,sleep (v)1
 snake6,,snake6
 speak1,,speak1
 thirst15,,thirst15
@@ -379,11 +379,11 @@ rain4,,rain4
 root25,,root25
 root26,,root26
 sand16,,sand16
-"sick, be15",,"sick, be15"
+sick_be15,,"sick, be15"
 sit4,,sit4
 sit18,,sit18
 skin28,,skin28
-sleep (v)16,,sleep (v)16
+sleep_v_16,,sleep (v)16
 small28,,small28
 small29,,small29
 stand13,,stand13
@@ -417,11 +417,11 @@ night4,,night4
 nose10,,nose10
 river17,,river17
 seed11,,seed11
-"sick, be1",,"sick, be1"
-sleep (v)6,,sleep (v)6
-sleep (v)13,,sleep (v)13
-sleep (v)23,,sleep (v)23
-sleep (v)24,,sleep (v)24
+sick_be1,,"sick, be1"
+sleep_v_6,,sleep (v)6
+sleep_v_13,,sleep (v)13
+sleep_v_23,,sleep (v)23
+sleep_v_24,,sleep (v)24
 small,,small
 speak27,,speak27
 stone13,,stone13
@@ -450,7 +450,7 @@ egg15,,egg15
 feather1,,feather1
 fire7,,fire7
 fish11,,fish11
-go to3,,go to3
+go_to3,,go to3
 head2,,head2
 heart8,,heart8
 house4,,house4
@@ -464,16 +464,16 @@ mountain10,,mountain10
 mountain11,,mountain11
 name2,,name2
 new3,,new3
-rain (v)7,,rain (v)7
-rain (v)8,,rain (v)8
-rain (v)9,,rain (v)9
+rain_v_7,,rain (v)7
+rain_v_8,,rain (v)8
+rain_v_9,,rain (v)9
 river1,,river1
 sand,,sand
 seed2,,seed2
-"sick, be2",,"sick, be2"
+sick_be2,,"sick, be2"
 skin20,,skin20
 skin21,,skin21
-sleep (v)10,,sleep (v)10
+sleep_v_10,,sleep (v)10
 small4,,small4
 smoke4,,smoke4
 snake2,,snake2
@@ -510,7 +510,7 @@ man14,,man14
 mouth1,,mouth1
 nose11,,nose11
 sand13,,sand13
-"sick, be3",,"sick, be3"
+sick_be3,,"sick, be3"
 skin5,,skin5
 skin22,,skin22
 small5,,small5
@@ -548,9 +548,9 @@ louse5,,louse5
 milk18,,milk18
 nail7,,nail7
 nose4,,nose4
-rain (v)2,,rain (v)2
+rain_v_2,,rain (v)2
 river8,,river8
-"sick, be4",,"sick, be4"
+sick_be4,,"sick, be4"
 skin26,,skin26
 speak28,,speak28
 thirst4,,thirst4
@@ -591,7 +591,7 @@ neck9,,neck9
 night2,,night2
 path4,,path4
 rain7,,rain7
-rain (v)10,,rain (v)10
+rain_v_10,,rain (v)10
 river19,,river19
 root20,,root20
 root21,,root21
@@ -604,7 +604,7 @@ sit13,,sit13
 skin23,,skin23
 skin24,,skin24
 skin25,,skin25
-sleep (v)14,,sleep (v)14
+sleep_v_14,,sleep (v)14
 small1,,small1
 small2,,small2
 snake4,,snake4
@@ -630,10 +630,10 @@ leaf26,,leaf26
 liver13,,liver13
 man16,,man16
 neck15,,neck15
-rain (v)6,,rain (v)6
+rain_v_6,,rain (v)6
 river5,,river5
 skin2,,skin2
-sleep (v)5,,sleep (v)5
+sleep_v_5,,sleep (v)5
 stand12,,stand12
 tail11,,tail11
 wind9,,wind9
@@ -653,7 +653,7 @@ leg1,,leg1
 liver1,,liver1
 milk1,,milk1
 mountain1,,mountain1
-rain (v)1,,rain (v)1
+rain_v_1,,rain (v)1
 root1,,root1
 skin1,,skin1
 tree1,,tree1
@@ -666,7 +666,7 @@ feather12,,feather12
 house3,,house3
 nose16,,nose16
 river25,,river25
-"sick, be10",,"sick, be10"
+sick_be10,,"sick, be10"
 skin29,,skin29
 all2,,all2
 ashes2,,ashes2
@@ -694,10 +694,10 @@ mouth3,,mouth3
 nose2,,nose2
 river2,,river2
 sand2,,sand2
-"sick, be7",,"sick, be7"
-"sick, be14",,"sick, be14"
+sick_be7,,"sick, be7"
+sick_be14,,"sick, be14"
 sit2,,sit2
-sleep (v)2,,sleep (v)2
+sleep_v_2,,sleep (v)2
 speak2,,speak2
 steal2,,steal2
 sun2,,sun2
@@ -727,9 +727,9 @@ milk2,,milk2
 neck3,,neck3
 river3,,river3
 root2,,root2
-"sick, be5",,"sick, be5"
+sick_be5,,"sick, be5"
 skin4,,skin4
-sleep (v)3,,sleep (v)3
+sleep_v_3,,sleep (v)3
 small6,,small6
 speak3,,speak3
 steal3,,steal3
@@ -746,7 +746,7 @@ laugh3,,laugh3
 man3,,man3
 root3,,root3
 sit3,,sit3
-sleep (v)4,,sleep (v)4
+sleep_v_4,,sleep (v)4
 small7,,small7
 speak4,,speak4
 stand2,,stand2
@@ -785,7 +785,7 @@ meat4,,meat4
 milk15,,milk15
 mountain4,,mountain4
 root5,,root5
-"sick, be8",,"sick, be8"
+sick_be8,,"sick, be8"
 small9,,small9
 speak5,,speak5
 stone3,,stone3
@@ -806,7 +806,7 @@ egg11,,egg11
 eye2,,eye2
 finger3,,finger3
 fly9,,fly9
-go to4,,go to4
+go_to4,,go to4
 heart7,,heart7
 kill8,,kill8
 kill10,,kill10
@@ -818,12 +818,12 @@ milk16,,milk16
 mountain3,,mountain3
 name5,,name5
 new,,new
-rain (v)3,,rain (v)3
+rain_v_3,,rain (v)3
 see2,,see2
 short3,,short3
-"sick, be9",,"sick, be9"
+sick_be9,,"sick, be9"
 skin7,,skin7
-sleep (v)7,,sleep (v)7
+sleep_v_7,,sleep (v)7
 small10,,small10
 steal5,,steal5
 tail3,,tail3
@@ -912,7 +912,7 @@ egg4,,egg4
 feather6,,feather6
 finger7,,finger7
 full6,,full6
-go to5,,go to5
+go_to5,,go to5
 horn11,,horn11
 kill3,,kill3
 knee11,,knee11
@@ -948,7 +948,7 @@ neck12,,neck12
 new2,,new2
 river20,,river20
 skin8,,skin8
-sleep (v)15,,sleep (v)15
+sleep_v_15,,sleep (v)15
 small12,,small12
 speak29,,speak29
 two2,,two2
@@ -961,8 +961,8 @@ bone12,,bone12
 cloud6,,cloud6
 dog6,,dog6
 dry13,,dry13
-go to6,,go to6
-go to13,,go to13
+go_to6,,go to6
+go_to13,,go to13
 kill16,,kill16
 knee20,,knee20
 leg16,,leg16
@@ -987,7 +987,7 @@ ashes13,,ashes13
 bird4,,bird4
 black7,,black7
 dog2,,dog2
-go to7,,go to7
+go_to7,,go to7
 knee4,,knee4
 many7,,many7
 nail10,,nail10
@@ -1006,7 +1006,7 @@ burn13,,burn13
 dig10,,dig10
 feather15,,feather15
 full4,,full4
-go to8,,go to8
+go_to8,,go to8
 hair9,,hair9
 know5,,know5
 leg13,,leg13
@@ -1026,7 +1026,7 @@ bone5,,bone5
 burn14,,burn14
 burn15,,burn15
 ear3,,ear3
-go to9,,go to9
+go_to9,,go to9
 hear5,,hear5
 heart5,,heart5
 knee3,,knee3
@@ -1035,7 +1035,7 @@ milk4,,milk4
 mountain5,,mountain5
 nail2,,nail2
 path3,,path3
-"sick, be",,"sick, be"
+sick_be,,"sick, be"
 skin9,,skin9
 two,,two
 white7,,white7
@@ -1057,7 +1057,7 @@ path8,,path8
 root29,,root29
 sit20,,sit20
 skin31,,skin31
-sleep (v)22,,sleep (v)22
+sleep_v_22,,sleep (v)22
 small35,,small35
 small36,,small36
 stone6,,stone6
@@ -1091,7 +1091,7 @@ louse6,,louse6
 louse7,,louse7
 nail3,,nail3
 rain3,,rain3
-rain (v)5,,rain (v)5
+rain_v_5,,rain (v)5
 river9,,river9
 skin10,,skin10
 speak11,,speak11
@@ -1152,7 +1152,7 @@ long3,,long3
 mouth5,,mouth5
 see4,,see4
 skin11,,skin11
-sleep (v)8,,sleep (v)8
+sleep_v_8,,sleep (v)8
 white9,,white9
 black10,,black10
 cloud8,,cloud8
@@ -1191,7 +1191,7 @@ elephant4,,elephant4
 man23,,man23
 many4,,many4
 see5,,see5
-sleep (v)9,,sleep (v)9
+sleep_v_9,,sleep (v)9
 white11,,white11
 black27,,black27
 blood17,,blood17
@@ -1211,7 +1211,7 @@ cloud11,,cloud11
 cold19,,cold19
 dig18,,dig18
 fish7,,fish7
-go to10,,go to10
+go_to10,,go to10
 hair7,,hair7
 kill5,,kill5
 leg4,,leg4
@@ -1230,7 +1230,7 @@ milk9,,milk9
 mouth7,,mouth7
 one3,,one3
 sand6,,sand6
-"sick, be11",,"sick, be11"
+sick_be11,,"sick, be11"
 small18,,small18
 speak16,,speak16
 arm2,,arm2
@@ -1265,7 +1265,7 @@ cloud14,,cloud14
 leaf13,,leaf13
 burn12,,burn12
 sand8,,sand8
-sleep (v)11,,sleep (v)11
+sleep_v_11,,sleep (v)11
 belly15,,belly15
 burn18,,burn18
 cold20,,cold20
@@ -1283,7 +1283,7 @@ wind8,,wind8
 black12,,black12
 egg13,,egg13
 liver9,,liver9
-sleep (v)12,,sleep (v)12
+sleep_v_12,,sleep (v)12
 speak17,,speak17
 tail7,,tail7
 walk7,,walk7
@@ -1317,13 +1317,13 @@ feather17,,feather17
 small20,,small20
 tree7,,tree7
 burn19,,burn19
-go to11,,go to11
+go_to11,,go to11
 black13,,black13
 fire9,,fire9
 milk10,,milk10
 seed7,,seed7
-"sick, be12",,"sick, be12"
-"sick, be18",,"sick, be18"
+sick_be12,,"sick, be12"
+sick_be18,,"sick, be18"
 tongue3,,tongue3
 egg9,,egg9
 fish9,,fish9
@@ -1333,7 +1333,7 @@ sand10,,sand10
 small21,,small21
 knee7,,knee7
 nose6,,nose6
-"sick, be13",,"sick, be13"
+sick_be13,,"sick, be13"
 small22,,small22
 stand7,,stand7
 steal7,,steal7
