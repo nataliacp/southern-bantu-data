@@ -1,1 +1,2 @@
 # Southern-Bantu-data
+Lexical dataset with a focus on the Southern Bantu branch, but with numerous outgroup languages as well. Note that even though the dataset contains Namibian Yei and Botswana Yei, these two varieties are not included in the phylogenetic analyses due to their complicated history and outgroup status.
