@@ -103,7 +103,7 @@
                             "Parameter_ID"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "concepts.csv",
                             "columnReference": [
                                 "ID"
                             ]
