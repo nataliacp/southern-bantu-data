@@ -477,8 +477,7 @@ ID,Language_ID,Parameter_ID,Form,Variants,Comment,Plural,Source,Translation,Segm
 480,kiyombi,dry,yuma,,,,mabiala1992kiyombi,,y u m a
 481,kiyombi,ear,ku-tu,,,,mabiala1992kiyombi,,k u t u
 482,kiyombi,eat,ku-lya,,,,mabiala1992kiyombi,,k u l y a
-483,kiyombi,egg,ly-aki,,,,mabiala1992kiyombi,,l y a k i
-484,kiyombi,egg,ma-ki,,,,mabiala1992kiyombi,,m a k i
+483,kiyombi,egg,ly-aki,,,ma-ki,mabiala1992kiyombi,,l y a k i
 485,kiyombi,elephant,ndzawu,ntsawu,,,mabiala1992kiyombi,,n d z a w u
 486,kiyombi,eye,li-ɛɛso,,,,mabiala1992kiyombi,,l i ɛ ɛ s o
 487,kiyombi,fall,bwa,,,,mabiala1992kiyombi,,b w a

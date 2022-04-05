@@ -280,7 +280,6 @@ blood14,,blood14
 cloud26,,cloud26
 cold28,,cold28
 dig23,,dig23
-egg,,egg
 feather21,,feather21
 finger2,,finger2
 fire8,,fire8
@@ -355,13 +354,11 @@ breast6,,breast6
 breast7,,breast7
 cloud28,,cloud28
 cloud29,,cloud29
-cold,,cold
 dig25,,dig25
 finger14,,finger14
 heart9,,heart9
 kill15,,kill15
 knee17,,knee17
-know,,know
 laugh5,,laugh5
 liver16,,liver16
 louse14,,louse14
@@ -392,7 +389,6 @@ tongue2,,tongue2
 tongue4,,tongue4
 white20,,white20
 wind10,,wind10
-woman,,woman
 ashes1,,ashes1
 bark8,,bark8
 belly4,,belly4
@@ -422,7 +418,6 @@ sleep_v_6,,sleep (v)6
 sleep_v_13,,sleep (v)13
 sleep_v_23,,sleep (v)23
 sleep_v_24,,sleep (v)24
-small,,small
 speak27,,speak27
 stone13,,stone13
 sun8,,sun8
@@ -468,7 +463,6 @@ rain_v_7,,rain (v)7
 rain_v_8,,rain (v)8
 rain_v_9,,rain (v)9
 river1,,river1
-sand,,sand
 seed2,,seed2
 sick_be2,,"sick, be2"
 skin20,,skin20
@@ -615,7 +609,6 @@ bird9,,bird9
 black9,,black9
 blood13,,blood13
 burn8,,burn8
-cloud,,cloud
 cold8,,cold8
 cold10,,cold10
 dig1,,dig1
@@ -763,7 +756,6 @@ know3,,know3
 man4,,man4
 milk3,,milk3
 moon2,,moon2
-mouth,,mouth
 river4,,river4
 small8,,small8
 woman6,,woman6
@@ -817,7 +809,6 @@ man17,,man17
 milk16,,milk16
 mountain3,,mountain3
 name5,,name5
-new,,new
 rain_v_3,,rain (v)3
 see2,,see2
 short3,,short3
@@ -969,7 +960,6 @@ leg16,,leg16
 many13,,many13
 milk23,,milk23
 nail15,,nail15
-one,,one
 path7,,path7
 root28,,root28
 seed18,,seed18
@@ -1037,7 +1027,6 @@ nail2,,nail2
 path3,,path3
 sick_be,,"sick, be"
 skin9,,skin9
-two,,two
 white7,,white7
 all12,,all12
 blood16,,blood16
@@ -1202,6 +1191,7 @@ full13,,full13
 give11,,give11
 house12,,house12
 sand18,,sand18
+sand21,,sand21
 bark12,,bark12
 bark13,,bark13
 big6,,big6
@@ -1375,8 +1365,7 @@ skin14,,skin14
 skin15,,skin15
 speak7,,speak7
 stand9,,stand9
-what,,what
-blood,,blood
+blood18,,blood18
 leaf18,,leaf18
 tail8,,tail8
 tree9,,tree9
